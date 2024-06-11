@@ -25,3 +25,80 @@ those		那些
 through		通过
 thumb		拇指
 yard		码（距离单位）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+book 2
+basin       水盆
+drying      擦干
+combs       梳子
+washcloth   毛巾
+Bell        铃
+rails       铁轨
+Massachusetts   马萨诸塞州
+Maine       缅因州
+field       ？
+opposite    对面
+roof        屋顶
+wide        宽
+blade       刀刃
+bent        弯
+attempt     尝试
+nails       钉子
+supports    支持
+
+collar      衣领
+thread      线
+scissors    剪刀
+narrow      窄
+horses      马
+stick       棍子？
+thin        薄
+Thick       厚
+carriages   马车
+trillion    万亿
+thousand    千
+attraction  吸引力
