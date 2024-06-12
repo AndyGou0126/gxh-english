@@ -27,50 +27,6 @@ thumb		拇指
 yard		码（距离单位）
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 book 2
 basin       水盆
 drying      擦干
@@ -97,7 +53,6 @@ narrow      窄
 horses      马
 stick       棍子？
 thin        薄
-Thick       厚
 carriages   马车
 trillion    万亿
 thousand    千
