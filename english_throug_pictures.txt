@@ -7,7 +7,7 @@ flame 		火焰
 fruit		果实
 gave 		give过去式
 glove		手套
-heat		热量
+heat		热量（温度计？？？）
 instrument	仪器
 liquid		液体
 measure		测量
@@ -51,9 +51,118 @@ thread      线
 scissors    剪刀
 narrow      窄
 horses      马
-stick       棍子？
+stick       棍子
 thin        薄
 carriages   马车
 trillion    万亿
 thousand    千
 attraction  吸引力
+
+scale       秤
+meters      米
+square      方形
+chord       和弦
+hanging     悬挂
+court       法庭
+statement   声明
+blow        打击
+rest        休息
+mountain    山
+worse       更糟
+amount      数量
+roll        卷
+wool        羊毛
+cotton      棉花
+silk        丝
+twisting    捻线
+silkworm    蚕丝
+worm        蚕
+ray of light 光线
+p108    Spade  是什么？？？
+paint       画画
+check       支票
+farming     农业
+plow        耕地的犁
+store       商店
+nails       指甲
+strange     奇怪
+attached    附属
+Braille     盲文
+hearing     听
+
+plough      犁 ？？？
+senses      感官
+powder      粉末
+mines       矿场
+bitter      苦
+grass       草
+
+
+
+
+动词	    过去式	    过去分词
+be	        was/were	been
+begin	    began	    begun
+bite	    bit	        bitten
+blow	    blew	    blown
+break	    broke	    broken
+bring	    brought	    brought
+build	    built	    built
+buy	        bought	    bought
+catch	    caught	    caught
+choose	    chose	    chosen
+come	    came	    come
+cost	    cost	    cost
+cut	        cut	        cut
+do	        did	        done
+draw	    drew	    drawn
+drink	    drank	    drunk
+drive	    drove	    driven
+eat	        ate	        eaten
+fall	    fell	    fallen
+feed	    fed	        fed
+feel	    felt	    felt
+find	    found	    found
+fly	        flew	    flown
+forget	    forgot	    forgotten
+forgive	    forgave	    forgiven
+freeze	    froze	    frozen
+get	        got	        gotten/got
+give	    gave	    given
+go	        went	    gone
+grow	    grew	    grown
+have	    had	        had
+hear	    heard	    heard
+hide	    hid	        hidden
+hit	        hit	        hit
+hold	    held	    held
+hurt	    hurt	    hurt
+keep	    kept	    kept
+know	    knew	    known
+lay	        laid	    laid
+lead	    led	        led
+learn	    learned/learnt	learned/learnt
+leave	    left	    left
+lend	    lent	    lent
+let	        let	        let
+lie	        lay	        lain
+light	    lit/lighted	lit/lighted
+lose	    lost	    lost
+make	    made	    made
+mean	    meant	    meant
+meet	    met	        met
+pay	        paid	    paid
+put	        put	        put
+read	    read	    read
+ride	    rode	    ridden
+ring	    rang	    rung
+rise	    rose	    risen
+run	        ran	        run
+say	        said	    said
+see	        saw	        seen
+sell	    sold	    sold
+send	    sent	    sent
+set	        set	        set
+shake	    shook	    shaken
+shine	    shone	    shone
+shoot	    shot	    shot
