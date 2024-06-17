@@ -96,6 +96,17 @@ powder      粉末
 mines       矿场
 bitter      苦
 grass       草
+kettle      水壶
+whistle     汽笛
+accord      ？？？
+bucket      桶
+mine        矿井
+word sense  词义
+certain     肯定
+seaside     海边
+rough       粗糙
+smooth      光滑
+desire      希望
 
 
 
