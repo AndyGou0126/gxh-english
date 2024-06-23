@@ -1,8 +1,39 @@
 thumb
 fingers
+stocking
+gloves
+
+chest 		
+chin  		
+cord  	 	
+crushing	
+drawer		
+flame 		
+fruit		
+gave 		
+glove		
+heat		
+instrument	
+liquid		
+measure		
+neck		
+plant		
+pot			
+solid		
+stem	
+stocking	
+tail		
+them		
+these		
+thick		
+those		
+through		
+thumb		
+yard		
 
 take / takes    took        taken   taking
 put / puts      put         put     putting
 go / goes       went        gone    going
 am / is / are   was / were  been    being
 do / does       did         done    doing
+come / comes    came        come    coming
