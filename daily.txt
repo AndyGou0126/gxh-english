@@ -37,3 +37,4 @@ go / goes       went        gone    going
 am / is / are   was / were  been    being
 do / does       did         done    doing
 come / comes    came        come    coming
+give / gives    gave        given   giving
